@@ -2,4 +2,9 @@ body{
     background-color: rgb(230, 157, 248);
 }
 
-header }
+header {
+    border-bottom: solid 2px rgb(0, 1, 2);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(230, 157, 248);
+}
